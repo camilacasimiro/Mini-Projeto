@@ -16,6 +16,11 @@ DB_DATABASE={nome do banco - case sensitive}
 
 REDIS_HOST={IP do container}
 REDIS_PORT={Porta padrão 6379}
+
+MONGO_HOST={IP do container}
+MONGO_PORT={Porta padrão 27017}
+MONGO_DATABASE={nome do banco}
+
 ```
 
 3. ```npm i```
